@@ -18,4 +18,4 @@ In dynamical systems, the full stability of fixed point solutions is determined 
 Also disponible online there : [Arxiv.org](https://arxiv.org/abs/1706.00344)
 
 
-[Code and data](https://github.com/GeeeHesso/Deb17) used for the paper.
+[Code and data](https://github.com/GeeeHesso/Del17) used for the paper.
