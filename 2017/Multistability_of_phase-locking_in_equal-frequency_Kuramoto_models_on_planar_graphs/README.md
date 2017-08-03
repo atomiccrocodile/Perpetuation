@@ -2,7 +2,7 @@
 
 Dated : March 23, 2017
 
-[Journal of Mathematical Physics 58 (2017)](http://aip.scitation.org/doi/10.1063/1.4978697)
+[Journal of Mathematical Physics 58 (2017)](http://dx.doi.org/10.1063/1.4978697)
 
 The number *N* of stable fixed points of locally coupled Kuramoto models depends on the topology of the network on which the model is defined. 
 It has been shown that cycles in meshed networks play a crucial role in determining *N*, because any two different stable fixed points differ by a collection of loop flows on those cycles. 
