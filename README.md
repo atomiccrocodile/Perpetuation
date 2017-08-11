@@ -9,7 +9,7 @@ Contains the papers, presentations and other documents relative to the group's s
 * [R. Delabays, M. Tyloo, P. Jacquod, *The Size of the Sync Basin Revisited* (2017)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/The_Size_of_the_Sync_Basin_Revisited)
 
 ### 2016
-* [R. Delabays, T. Coletta, P. Jacquod, *Multistability of phase-locking and topological winding numbers in locally coupled Kuramoto models on single-loop networks* J. Mat. Phys **57** (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Multistability_of_phase-locking_and_topological_winding_numbers_in_locally_coupled_Kuramoto_models_on_single-loop_networks)
+* [R. Delabays, T. Coletta, P. Jacquod, *Multistability of phase-locking and topological winding numbers in locally coupled Kuramoto models on single-loop networks*, J. Mat. Phys **57** (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Multistability_of_phase-locking_and_topological_winding_numbers_in_locally_coupled_Kuramoto_models_on_single-loop_networks)
 
 ## In the News
 
