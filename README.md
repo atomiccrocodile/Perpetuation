@@ -28,6 +28,6 @@ Contains the papers, presentations and other documents relative to the group's s
 * [Vote sur la sortie du nucléaire en Suisse](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/In_the_News/RCANADA_Vote_sortie_nucleaire)
 
 
-## 2015
+### 2015
 
 * [Tournant énérgetique dans le secteur électrique](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/In_the_News/Tournant_energetique_dans_le_secteur_electrique)
