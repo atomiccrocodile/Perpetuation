@@ -2,7 +2,7 @@
 
 Date : novembre 2015
 
-Publié dans le Bulletin annuel [EletrcoSuisse](https://www.electrosuisse.ch/fr.html)
+Publié dans le Bulletin annuel [ElectroSuisse](https://www.electrosuisse.ch/fr.html)
 
 
 La Stratégie énergétique 2050 de la Confédération prévoit le remplacement des centrales nucléaires par des sources d’énergie renouvelable. L’hydraulique d’accumulation se révèlera alors précieuse pour absorber les fluctuations de production journalières et saisonnières des nouvelles sources renouvelables, et notamment du photovoltaïque. Une nette revalorisation des infrastructures hydroélectriques se produira au plus tard à lafermeture des centrales nucléaires de Mühleberg et de Beznau.
