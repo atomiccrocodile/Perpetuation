@@ -9,7 +9,7 @@ Contains the papers, presentations and other documents relative to the group's s
 
 * [T. Coletta, R. Delabays, I. Adagideli, P. Jacquod, *Topologically protected loop flows in high voltage AC power grids*, New J. Phys. 18, 103042 (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Topological_Protection)
 
- [T. Coletta, R. Delabays, L. Pagnier, P. Jacquod, *Large electric load fluctuations in energy-efficient buildings and how to suppress them with demand side management*, IEEE PES Innovative Smart Grid Technologies Conference Europe, Ljubljana, 2016, pp. 1-6.](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Demand_Side_Management)
+* [T. Coletta, R. Delabays, L. Pagnier, P. Jacquod, *Large electric load fluctuations in energy-efficient buildings and how to suppress them with demand side management*, IEEE PES Innovative Smart Grid Technologies Conference Europe, Ljubljana, 2016, pp. 1-6.](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Demand_Side_Management)
 
 
 ### In the News
