@@ -9,5 +9,5 @@ Contains the papers, presentations and other documents relative to the group's s
 * [Ligne électrique Haute Tension Chamoson-Chippis, *RhoneFM*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/In_the_News/RHONEFM_ligne_electrique_HT)
 * [Hochspannungsleitungen - ein spannendes Thema, *RRO*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/In_the_News/RRO_Hochspannungleitung)
 * [L'électricité, un monde aussi complexe que fascinant, *RTS*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/In_the_News/RTS_electricite_un_monde_fascinant)
-* [La grande hydraulique et la stratégie énergétique 2050, *CANAL9*]
+* [La grande hydraulique et la stratégie énergétique 2050, *CANAL9*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/In_the_News/CANAL9_grande_hydraulique)
 
