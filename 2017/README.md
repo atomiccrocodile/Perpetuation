@@ -8,7 +8,7 @@ Contains the papers, presentations and other documents relative to the group's s
 * [R. Delabays, M. Tyloo, P. Jacquod, *The Size of the Sync Basin Revisited* (2017)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/The_Size_of_the_Sync_Basin_Revisited)
 
 
-### List of apparitions in the media
+### In the news
 
 * [Barrage à sec, Black-out en vue, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/In_the_News/Barrages_a_sec_black_out_en_vue)
 * [Champéry capitale internationale, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/In_the_News/Champery_capitale_internationale)
