@@ -2,7 +2,7 @@
 
 Dated : March 9, 2016
 
-[Journal of Mathematical Physics 57 (2016)](http://dx.doi.org/10.1063/1.4943296)
+[Journal of Mathematical Physics 57, 032703 (2016)](http://dx.doi.org/10.1063/1.4943296)
 
 Determining the number of stable phase-locked solutions for locally coupled Kuramoto models is a long-standing mathematical problem with important implications in biology, condensed matter physics and electrical engineering among others. 
 We investigate Kuramoto models on networks with various topologies and show that different phase-locked solutions are related to one another by loop currents. 
