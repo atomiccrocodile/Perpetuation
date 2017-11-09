@@ -1,5 +1,6 @@
 # Perpetuation
-Contains the papers, presentations and other documents relative to the group's studies and projects.
+Contains the publications, presentations and other documents pertaining to the group's
+research and projects.
 
 ## Publications
 
