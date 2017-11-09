@@ -1,4 +1,4 @@
-# Ligne éléctrique Haute Tension Chamoson-Chippis
+# Ligne électrique haute tension Chamoson-Chippis
 
 Date : février 2017
 
