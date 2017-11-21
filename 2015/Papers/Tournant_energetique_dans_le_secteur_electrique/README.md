@@ -1,4 +1,4 @@
-# Tournant énérgetique dans le secteur électrique
+# Tournant énergetique dans le secteur électrique
 
 Date : novembre 2015
 
