@@ -9,6 +9,6 @@ Contains the papers, presentations and other documents relative to the group's s
 
 * [R. Delabays, T. Coletta, P. Jacquod, *Topologically protected loop flows in high voltage AC power grids*, New J. Phys. 18, 103042 (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Topological_Protection)
 
-* [P. Jacquod, L. Pagnier, *A new, central role for hydroelectricity in the energy transition*, Proceedings of Hydro2016 Conference (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/A_New,_Central_Role_for_Hydroelectricity_in_the_Energy_Transition)
+* [P. Jacquod, L. Pagnier, *A new, central role for hydroelectricity in the energy transition*, Proceedings of Hydro 2016 Conference (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/A_New_Central_Role_for_Hydroelectricity_in_the_Energy_Transition)
 
 
