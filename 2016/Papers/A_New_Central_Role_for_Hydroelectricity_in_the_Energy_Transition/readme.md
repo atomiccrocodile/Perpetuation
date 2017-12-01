@@ -2,7 +2,7 @@
 
 Dated :  22.07.2016 
 
-[Proceedings of Hydro 2016 Conference (2016)](www.hydropower-dams.com/proceedings-overview.php?c_id=164)
+[Proceedings of Hydro 2016 Conference (2016)](http://www.hydropower-dams.com/proceedings-overview.php?c_id=164)
 
 Most European countries are now engaged in the energy transition whose ultimate goal is to meet energy demand
 from human activities solely with renewable sources. In its current intermediate stages, the transition steadily
