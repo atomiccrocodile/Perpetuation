@@ -16,12 +16,12 @@ constant total production, i.e. by reducing the production of thermal power plan
 of RES increases. Less flexible productions, on the other hand, will see their revenue grow more moderately. Our results
 advocate for a faster energy transition with a quicker withdrawal of baseload thermal power plants.
 
-**Author :** Laurent Pagnier<sup>1,2</sup>, Philippe Jacquod<sup>2</sup>
+**Author :** Laurent Pagnier<sup>1,2</sup>, Philippe Jacquod<sup>1</sup>
 1) School of Engineering, University of Applied Sciences of Western Switzerland, CH-1950 Sion, Switzerland
 2) Institute of Theoretical Physics, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
 
 
-Also disponible online there : [Arxiv.org](https://arxiv.org/abs/1706.00330)
+Also available online there : [Arxiv.org](https://arxiv.org/abs/1706.00330)
 
 
 

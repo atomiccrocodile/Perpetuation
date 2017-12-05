@@ -24,7 +24,7 @@ with optimal slack bus choices reducing transmission losses by 10% typically.
 1) School of Engineering, University of Applied Sciences of Western Switzerland, CH-1950 Sion, Switzerland
 
 
-Also disponible online there : [Arxiv.org](https://arxiv.org/abs/1707.02845)
+Also available online there : [Arxiv.org](https://arxiv.org/abs/1707.02845)
 
 
 

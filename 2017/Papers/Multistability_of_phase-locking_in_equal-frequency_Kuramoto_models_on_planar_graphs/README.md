@@ -15,10 +15,10 @@ Compared to earlier approaches that give exponential upper bounds in the total n
 
 **Author :** Robin Delabays <sup>1,2</sup>, Tommaso Coletta<sup>1</sup>, Philippe Jacquod<sup>1</sup>
 1) School of Engineering, University of Applied Sciences of Western Switzerland, CH-1950 Sion, Switzerland
-2) Section de Math\'ematiques, Universit\'e de Gen\`eve, Switzerland
+2) Section de Mathématiques, Université de Genève, Switzerland
 
 
-Also disponible online there : [Arxiv.org](https://arxiv.org/abs/1609.02359)
+Also available online there : [Arxiv.org](https://arxiv.org/abs/1609.02359)
 
 
 

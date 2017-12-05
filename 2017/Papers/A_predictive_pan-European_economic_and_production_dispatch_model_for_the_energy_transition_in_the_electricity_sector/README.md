@@ -11,7 +11,7 @@ The energy transition is well underway in most European countries. It has a grow
 2) School of Engineering, University of Applied Sciences of Western Switzerland, CH-1950 Sion, Switzerland
 
 
-Also disponible online there : [Arxiv.org](https://arxiv.org/abs/1706.01666)
+Also available online there : [Arxiv.org](https://arxiv.org/abs/1706.01666)
 
 
 
