@@ -11,6 +11,7 @@ Contains the papers, presentations and other documents relative to the group's s
 
 * [T. Coletta, R. Delabays, L. Pagnier, P. Jacquod, *Large electric load fluctuations in energy-efficient buildings and how to suppress them with demand side management*, IEEE PES Innovative Smart Grid Technologies Conference Europe, Ljubljana, 2016, pp. 1-6.](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Demand_Side_Management)
 
+* [P. Jacquod, L. Pagnier, *A new, central role for hydroelectricity in the energy transition*, Proceedings of Hydro 2016 Conference (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/A_New_Central_Role_for_Hydroelectricity_in_the_Energy_Transition)
 
 ### In the News
 
