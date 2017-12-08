@@ -8,10 +8,10 @@ We investigate the scaling properties of the order parameter and the largest non
 
 **Author :** Tommaso Coletta<sup>1</sup>, Robin Delabays <sup>1,2</sup>, Philippe Jacquod<sup>1</sup>
 1) School of Engineering, University of Applied Sciences of Western Switzerland, CH-1950 Sion, Switzerland
-2) Section de Math\'ematiques, Universit\'e de Gen\`eve, Switzerland
+2) Section de Mathématiques, Université de Genève, Switzerland
 
 
-Also disponible online there : [Arxiv.org](https://arxiv.org/abs/)
+Also available online there : [Arxiv.org](https://arxiv.org/abs/)
 
 
 
