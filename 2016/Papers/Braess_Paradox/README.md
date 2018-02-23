@@ -1,4 +1,4 @@
-# Linear stability and the Braess paradox in coupled-oscillator networks and electric power grids
+#  Linear stability and the Braess paradox in coupled-oscillator networks and electric power grids
 
 Dated : March 31, 2016
 

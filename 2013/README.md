@@ -6,7 +6,7 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### Publications
 
-* None for now
+* [Signatures of Majorana fermions in hybrid normal-superconducting rings, *Physical Review B**]
 
 ### In the News
 
