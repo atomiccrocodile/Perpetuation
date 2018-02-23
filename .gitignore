@@ -1,2 +1,3 @@
 after.sh
 before.sh
+*.DS_Store
