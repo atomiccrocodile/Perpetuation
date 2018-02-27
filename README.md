@@ -22,7 +22,7 @@ Contains the publications, presentations and other documents pertaining to the g
 * [Tournant énergetique dans le secteur électrique, *ElectroSuisse / AES*](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Papers/Tournant_energetique_dans_le_secteur_electrique)
 
 ### 2013
-* [Signatures of Majorana fermions in hybrid normal-superconducting rings, *Physical Review B**]
+* [Signatures of Majorana fermions in hybrid normal-superconducting rings, *Physical Review B**](https://github.com/GeeeHesso/Perpetuation/tree/master/2013/Papers/Majorana)
 
 ## In the News
 
