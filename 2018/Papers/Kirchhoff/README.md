@@ -8,7 +8,7 @@ In network theory, a question of prime importance is how to assess network vulne
 
 
 
-**Author :** Melvyn Tyloo<sup>1,2</sup>, Tommaso Coletta<sup>1<\sup>, Philippe Jacquod<sup>1<\sup>
+**Author :** Melvyn Tyloo<sup>1,2<\sup>, Tommaso Coletta<sup>1<\sup>, Philippe Jacquod<sup>1<\sup>
 1) School of Engineering, University of Applied Sciences of Western Switzerland, CH-1950 Sion, Switzerland
 2) Institute of Physics, Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland
 
