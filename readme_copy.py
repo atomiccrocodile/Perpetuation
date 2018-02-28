@@ -1,7 +1,7 @@
 #!/usr/bin/env python3.6
 # This script takes the information of the README on the last level and copies it into the yearly README and general README
 
-years = [2017,2016,2015,2014,2013]
+years = [2018,2017,2016,2015,2014,2013]
 
 
 
