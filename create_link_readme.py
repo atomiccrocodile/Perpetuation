@@ -67,6 +67,11 @@ for year in years:
 						directory_name_finish = d_n
 				
 				end_link = start_link + str(year) + '/' + f_papers +'/'+ directory_name_finish
+				
+				
+				if similarity < 0.3:
+					print('Careful! Low similiarity score for link :' + line_title + 'toward' + end_link)
+					print('Please make sure the link is correct')
 
 				line_final.append(line_title_f + '(' + end_link +')\n')
 
@@ -130,6 +135,10 @@ for year in years:
 						directory_name_finish = d_n
 				
 				end_link = start_link + str(year) + '/' + f_news +'/'+ directory_name_finish
+				
+				if similarity < 0.3:
+					print('Careful! Low similiarity score for link :' + line_title + 'toward' + end_link)
+					print('Please make sure the link is correct')
 
 				line_final.append(line_title_f + '(' + end_link +')\n')
 
@@ -193,6 +202,10 @@ for year in years:
 						directory_name_finish = d_n
 				
 				end_link = start_link + str(year) + '/' + f_presentation +'/'+ directory_name_finish
+				
+				if similarity < 0.3:
+					print('Careful! Low similiarity score for link :' + line_title + 'toward' + end_link)
+					print('Please make sure the link is correct')
 
 				line_final.append(line_title_f + '(' + end_link +')\n')
 
