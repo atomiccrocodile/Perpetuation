@@ -4,4 +4,4 @@ Contains the papers, presentations and other documents relative to the group's s
 
 ### Publications
 
-* [Signatures of Majorana fermions in hybrid normal-superconducting rings, *Physical Review B**](https://github.com/GeeeHesso/Perpetuation/tree/master/2013/Papers/Majorana)
+* [*Signatures of Majorana fermions in hybrid normal-superconducting rings*, Physical Review **B**](https://github.com/GeeeHesso/Perpetuation/tree/master/2013/Papers/Majorana)

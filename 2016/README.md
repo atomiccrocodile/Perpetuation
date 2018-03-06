@@ -10,6 +10,7 @@ Contains the publications, presentations and other documents pertaining to the g
 * [T. Coletta, P. Jacquod, *Linear stability and the Braess paradox in coupled-oscillator networks and electric power grids*, Phys. Rev. E **93**, 032222 (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Braess_Paradox)
 * [R. Delabays, T. Coletta, P. Jacquod, *Topologically protected loop flows in high voltage AC power grids*, New J. Phys. **18**, 103042 (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Topological_Protection)
 * [P. Jacquod, L. Pagnier, *A new, central role for hydroelectricity in the energy transition*, Proceedings of Hydro 2016 Conference (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/A_New_Central_Role_for_Hydroelectricity_in_the_Energy_Transition)
+* [T. Coletta, R. Delabays, L. Pagnier, P. Jacquod, *Large Electric Load Fluctuations in Energy-Efficient Buildings and how to Suppress them with Demand Side Management*, PES (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Demand_Side_Management)
 
 ### In the News
 

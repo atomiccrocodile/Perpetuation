@@ -6,6 +6,7 @@ Contains the publications, presentations and other documents pertaining to the g
 ### 2018
 * [M. Tyloo, T. Coletta, P. Jacquod , *Robustness of Synchrony in Complex Networks and Generalized Kirchhoff Indices*, Phys. Rev. Lett. **120** , 084101 (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Kirchhoff)
 * [L. Pagnier, P. Jacquod , *Swissgrid’s strategic grid 2025 : an independent analysis*, Technical report (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Swissgrid_2025)
+* [*Performance measure line fault resub*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramian)
 
 ### 2017
 * [R. Delabays, T. Coletta, P. Jacquod, *Multistability of phase-locking in equal-frequency Kuramoto models on planar graphs*, J. Math. Phys **58**, 032701  (2017)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/Multistability_of_phase-locking_in_equal-frequency_Kuramoto_models_on_planar_graphs)
@@ -15,15 +16,22 @@ Contains the publications, presentations and other documents pertaining to the g
 * [P. Jacquod, L. Pagnier, *Le paradoxe de la transition énergétique*, *ElectroSuisse / AES* (2017)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/Paradoxe_Transition_Energ%C3%A9tique)
 * [L. Pagnier, P. Jacquod , *A predictive pan-European economic and production dispatch model for the energy transition in the electricity sector*, *Proceedings of Powertech 2017 Conference* (2017)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/A_predictive_pan-European_economic_and_production_dispatch_model_for_the_energy_transition_in_the_electricity_sector)
 * [L. Pagnier, P. Jacquod , *How fast can one overcome the paradox of the energy transition? A predictive physico-economic model for the European power grid*, *Energy* (pending)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/How_fast_can_one_overcome_the_paradox_of_the_energy_transition)
+* [T. Coletta, P. Jacquod, *Performance measures in electric power networks under line contingencies*, (pending)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/Performance_Measures_in_Electric_Power_Networks_Under_Line_Contingencies)
 
 ### 2016
 * [R. Delabays, T. Coletta, P. Jacquod, *Multistability of phase-locking and topological winding numbers in locally coupled Kuramoto models on single-loop networks*, J. Mat. Phys **57**, 032703 (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Multistability_of_phase-locking_and_topological_winding_numbers_in_locally_coupled_Kuramoto_models_on_single-loop_networks)
 * [T. Coletta, P. Jacquod, *Linear stability and the Braess paradox in coupled-oscillator networks and electric power grids*, Phys. Rev. E **93**, 032222 (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Braess_Paradox)
 * [R. Delabays, T. Coletta, P. Jacquod, *Topologically protected loop flows in high voltage AC power grids*, New J. Phys. **18**, 103042 (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Topological_Protection)
 * [P. Jacquod, L. Pagnier, *A new, central role for hydroelectricity in the energy transition*, Proceedings of Hydro 2016 Conference (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/A_New_Central_Role_for_Hydroelectricity_in_the_Energy_Transition)
+* [T. Coletta, R. Delabays, L. Pagnier, P. Jacquod, *Large Electric Load Fluctuations in Energy-Efficient Buildings and how to Suppress them with Demand Side Management*, PES (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Demand_Side_Management)
 
 ### 2015
 * [*Tournant énergetique dans le secteur électrique*, ElectroSuisse / AES](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Papers/Tournant_energetique_dans_le_secteur_electrique)
+* [*Spin Current Detection*](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Papers/Spin_Current_Detection)
+
+### 2014
+* [*Local Temperature*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Papers/Local_Temperature)
+* [*Solition Motion Graphene*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Papers/Soliton_Motion_Graphene)
 
 ### 2013
 * [*Signatures of Majorana fermions in hybrid normal-superconducting rings*, Physical Review **B**](https://github.com/GeeeHesso/Perpetuation/tree/master/2013/Papers/Majorana)
@@ -41,3 +49,25 @@ Contains the publications, presentations and other documents pertaining to the g
 ### 2016
 * [La sortie du nucléaire a un prix climatique](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/In_the_News/La_sortie_du_nucleaire_a_un_prix_climatique)
 * [Vote sur la sortie du nucléaire en Suisse](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/In_the_News/RCANADA_Vote_sortie_nucleaire)
+
+## List of presentations
+
+### 2018
+* [*Bad Honnef*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Bad_Honnef)
+
+### 2017
+* [*Stanta Fe*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Santa_Fe)
+* [*Powertech*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Powertech)
+* [*Condynet*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Condynet_Potsdam)
+* [*Champéry*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Champéry)
+* [*BIRS Banff*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/BIRS_Banff)
+
+### 2015
+* [*Konstanz*](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Konstanz)
+* [*Pecha Kucha*](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Pecha_Kucha)
+
+### 2014
+* [*ECS14*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/ECS14)
+* [*IWDS14*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/IWDS14)
+* [*SET14*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/SET14)
+* [*Majorana EPFL*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/Majorana_EPFL)

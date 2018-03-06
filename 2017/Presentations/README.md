@@ -4,3 +4,9 @@ Contains the papers, presentations and other documents relative to the group's s
 
 ### List of presentations
 
+* [*Stanta Fe*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Santa_Fe)
+* [*Powertech*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Powertech)
+* [*Condynet*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Condynet_Potsdam)
+* [*Champéry*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Champéry)
+* [*BIRS Banff*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/BIRS_Banff)
+

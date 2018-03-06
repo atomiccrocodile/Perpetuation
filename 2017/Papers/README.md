@@ -11,3 +11,5 @@ Contains the papers, presentations and other documents relative to the group's s
 * [L. Pagnier, P. Jacquod , *A predictive pan-European economic and production dispatch model for the energy transition in the electricity sector*, *Proceedings of Powertech 2017 Conference* (2017)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/A_predictive_pan-European_economic_and_production_dispatch_model_for_the_energy_transition_in_the_electricity_sector)
 * [L. Pagnier, P. Jacquod , *How fast can one overcome the paradox of the energy transition? A predictive physico-economic model for the European power grid*, *Energy* (pending)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/How_fast_can_one_overcome_the_paradox_of_the_energy_transition)
 
+* [T. Coletta, P. Jacquod, *Performance measures in electric power networks under line contingencies*, (pending)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/Performance_Measures_in_Electric_Power_Networks_Under_Line_Contingencies)
+
