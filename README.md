@@ -23,10 +23,10 @@ Contains the publications, presentations and other documents pertaining to the g
 * [P. Jacquod, L. Pagnier, *A new, central role for hydroelectricity in the energy transition*, Proceedings of Hydro 2016 Conference (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/A_New_Central_Role_for_Hydroelectricity_in_the_Energy_Transition)
 
 ### 2015
-* [Tournant énergetique dans le secteur électrique, *ElectroSuisse / AES*](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Papers/Tournant_energetique_dans_le_secteur_electrique)
+* [*Tournant énergetique dans le secteur électrique*, ElectroSuisse / AES](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Papers/Tournant_energetique_dans_le_secteur_electrique)
 
 ### 2013
-* [Signatures of Majorana fermions in hybrid normal-superconducting rings, *Physical Review B**](https://github.com/GeeeHesso/Perpetuation/tree/master/2013/Papers/Majorana)
+* [*Signatures of Majorana fermions in hybrid normal-superconducting rings*, Physical Review **B**](https://github.com/GeeeHesso/Perpetuation/tree/master/2013/Papers/Majorana)
 
 ## In the News
 
