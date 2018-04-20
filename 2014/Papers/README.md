@@ -6,4 +6,4 @@ Contains the papers, presentations and other documents relative to the group's s
 
 * [*Local Temperature*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Papers/Local_Temperature)
 
-* [*Solition Motion Graphene*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Papers/Soliton_Motion_Graphene)
+* [*Soliton Motion Graphene*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Papers/Soliton_Motion_Graphene)

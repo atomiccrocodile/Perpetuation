@@ -32,7 +32,7 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### 2014
 * [*Local Temperature*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Papers/Local_Temperature)
-* [*Solition Motion Graphene*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Papers/Soliton_Motion_Graphene)
+* [*Soliton Motion Graphene*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Papers/Soliton_Motion_Graphene)
 
 ### 2013
 * [*Signatures of Majorana fermions in hybrid normal-superconducting rings*, Physical Review **B**](https://github.com/GeeeHesso/Perpetuation/tree/master/2013/Papers/Majorana)
@@ -48,8 +48,8 @@ Contains the publications, presentations and other documents pertaining to the g
 * [La grande hydraulique et la stratégie énergétique 2050, *CANAL9*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/In_the_News/CANAL9_grande_hydraulique)
 
 ### 2016
-* [La sortie du nucléaire a un prix climatique](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/In_the_News/La_sortie_du_nucleaire_a_un_prix_climatique)
-* [Vote sur la sortie du nucléaire en Suisse](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/In_the_News/RCANADA_Vote_sortie_nucleaire)
+* [La sortie du nucléaire a un prix climatique, *Le Temps*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/In_the_News/La_sortie_du_nucleaire_a_un_prix_climatique)
+* [Vote sur la sortie du nucléaire en Suisse, *Radio-Canada*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/In_the_News/RCANADA_Vote_sortie_nucleaire)
 
 ## List of presentations
 
@@ -57,7 +57,7 @@ Contains the publications, presentations and other documents pertaining to the g
 * [*Bad Honnef*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Bad_Honnef)
 
 ### 2017
-* [*Stanta Fe*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Santa_Fe)
+* [*Santa Fe*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Santa_Fe)
 * [*Powertech*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Powertech)
 * [*Condynet*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Condynet_Potsdam)
 * [*Champéry*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Champéry)

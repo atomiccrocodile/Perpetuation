@@ -26,7 +26,7 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### List of presentations
 
-* [*Stanta Fe*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Santa_Fe)
+* [*Santa Fe*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Santa_Fe)
 * [*Powertech*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Powertech)
 * [*Condynet*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Condynet_Potsdam)
 * [*Champéry*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Champéry)

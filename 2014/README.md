@@ -7,7 +7,7 @@ Contains the publications, presentations and other documents pertaining to the g
 ### Publications
 
 * [*Local Temperature*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Papers/Local_Temperature)
-* [*Solition Motion Graphene*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Papers/Soliton_Motion_Graphene)
+* [*Soliton Motion Graphene*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Papers/Soliton_Motion_Graphene)
 
 ### In the News
 

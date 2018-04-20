@@ -61,7 +61,7 @@ for year in years:
 				line_title = line_title[line_title.find('*')+1:]
 				line_title = line_title[:line_title.find('*')]
 				similarity=0.
-				for d_n in directory_name:
+				for d_n in directory_name: #Goes in the dicrectories and try to find the most similar file.
 					if difflib.SequenceMatcher(None, line_title, d_n).ratio() > similarity:
 						similarity=difflib.SequenceMatcher(None, line_title, d_n).ratio()
 						directory_name_finish = d_n
