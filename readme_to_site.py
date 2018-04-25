@@ -136,14 +136,14 @@ for p_all in publication:
     else:
         print("WARNING! No ReadMe for ", part_2_root)
 
-    name= 'p_' + str(count)
+    name= 'p_' + (str(count).zfill(2))
     count += 1
     all_publication_dict['publication'][name]=publication_dict
 
     
 
 with open('pub.json', 'w') as fp:
-    json.dump(all_publication_dict, fp,indent=4)
+    json.dump(all_publication_dict, fp,indent=4,sort_keys=True)
 
 ##############
 
@@ -175,12 +175,12 @@ for n_all in news:
 
     news_dict['display'] = display_temp
 
-    name='n_'+str(count)
+    name='n_'+(str(count).zfill(2))
     count += 1
     all_news_dict['news'][name]=news_dict
 
 with open('news.json', 'w') as fp:
-    json.dump(all_news_dict,fp,indent=4)
+    json.dump(all_news_dict,fp,indent=4,sort_keys=True)
 
 
 #################
@@ -213,9 +213,9 @@ for pr_all in presentations:
 
     pres_dict['display'] = display_temp
 
-    name='p_'+str(count)
+    name='p_'+(str(count).zfill(2))
     count += 1
     all_presentations_dict['presentations'][name]=pres_dict
 
 with open('pres.json', 'w') as fp:
-    json.dump(all_presentations_dict,fp,indent=4)
+    json.dump(all_presentations_dict,fp,indent=4,sort_keys=True)
