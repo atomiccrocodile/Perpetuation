@@ -35,8 +35,7 @@ Contains the publications, presentations and other documents pertaining to the g
 * [M. Yankowitz, J. Wang, A. Birdwell, Y. Chen, K. Watanabe, T. Taniguchi, P. Jacquod, P. San-Jose, P. Jarillo-Herrero, B. LeRoy, *Electric Field Control of Soliton Motion and Stacking in Trilayer Graphene*, Nature Materials **13**, 786 (2014)](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Papers/Soliton_Motion_Graphene)
 
 ### 2013
-* [*Signatures of Majorana fermions in hybrid normal-superconducting rings*, Physical Review **B**](https://github.com/GeeeHesso/Perpetuation/tree/master/2013/Papers/Majorana)
-
+* [P. Jacquod, M. Büttiker, *Signatures of Majorana Fermions in Hybrid Normal-Superconducting Rings*, Physical Review B **88**, 214409(R) (2013)](https://github.com/GeeeHesso/Perpetuation/tree/master/2013/Papers/Majorana)
 ## In the News
 
 ### 2017
