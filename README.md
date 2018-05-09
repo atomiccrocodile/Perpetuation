@@ -38,8 +38,11 @@ Contains the publications, presentations and other documents pertaining to the g
 * [P. Jacquod, M. Büttiker, *Signatures of Majorana Fermions in Hybrid Normal-Superconducting Rings*, Physical Review B **88**, 214409(R) (2013)](https://github.com/GeeeHesso/Perpetuation/tree/master/2013/Papers/Majorana)
 ## In the News
 
+### 2018
+* [Champéry capitale internationale, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/Réchauggement_climatique_NF)
+
 ### 2017
-* [Barrage à sec, Black-out en vue, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/In_the_News/Barrages_a_sec_black_out_en_vue)
+* [Barrage à sec, Black-out en vue, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/Barrages_a_sec_black_out_en_vue)
 * [Champéry capitale internationale, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/In_the_News/Champery_capitale_internationale)
 * [Ligne électrique Haute Tension Chamoson-Chippis, *RhoneFM*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/In_the_News/RHONEFM_ligne_electrique_HT)
 * [Hochspannungsleitungen - ein spannendes Thema, *RRO*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/In_the_News/RRO_Hochspannungleitung)
