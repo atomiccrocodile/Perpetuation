@@ -21,6 +21,6 @@ Also available online there : [Arxiv.org](https://arxiv.org/abs/1706.00344)
 [Code and data](https://github.com/GeeeHesso/Del17) used for the paper.
 
 
-<!-- keywords: kuramoto cycle multistability basin attraction sync volume -->
+<!-- keywords: network_stability kuramoto cycle multistability basin attraction sync volume -->
 
 
