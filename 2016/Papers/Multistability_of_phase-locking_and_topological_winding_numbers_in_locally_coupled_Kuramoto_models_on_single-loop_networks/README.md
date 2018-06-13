@@ -24,4 +24,6 @@ We point out similarities between loop currents and vortices in superfluids and 
 Also available online there : [Arxiv.org](https://arxiv.org/abs/1512.04266)
 
 
+<!-- keywords: kuramoto multistability winding number loop flow cycle -->
+
 
