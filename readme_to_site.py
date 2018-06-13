@@ -127,8 +127,8 @@ for p_all in publication:
             index += 1
             f_readme = open(part_2[part_2.find('master')+7:] + '/' + name_readme)
             for line in f_readme:
-                if line.lower().startswith('keywords'):
-                    publication_dict['tags'] = line.split(':')[1]#To check
+                if line.lower().startswith('<!-- keywords:'):
+                    publication_dict['tags'] = line.split(':')[1][:-4]
                     break
         except:
             print("Unable to open ", part_2_root+name_readme)
