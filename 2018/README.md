@@ -11,7 +11,7 @@ Contains the publications, presentations and other documents pertaining to the g
 * [L. Pagnier, P. Jacquod, *Swissgrid’s Strategic Grid 2025 : an Independent Analysis*, Technical report (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Swissgrid_2025)
 * [M. Bonvin, P. Jacquod, *Réchauffement Climatique et Transition Energétique : Quelles Conséquences pour la Production Hydroélectrique Suisse ?*, Wasser-Energie-Luft, March (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/WEL)
 * [T. Coletta, P. Jacquod, *Performance Measures in Electric Power Networks under Line Contingenices*, Submitted to EEE Transactions on Control of Network Systems (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramian)
-* [T. Coletta, B. Bamieh, P. Jacquod, *Transient Performance of Electric Power Networks under Colored Noise*, submitted to IEEE Control Systems Letters (2018)Submitted to EEE Transactions on Control of Network Systems (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramiannoise)
+* [T. Coletta, B. Bamieh, P. Jacquod, *Transient Performance of Electric Power Networks under Colored Noise*, submitted to IEEE Control Systems Letters (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramiannoise)
 ### In the News
 
 * [Réchauffement climatique, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/Réchauffement_climatique_NF)
@@ -20,3 +20,4 @@ Contains the publications, presentations and other documents pertaining to the g
 
 * [*Bad Honnef*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Bad_Honnef)
 * [*Le réseau stratégique 2025 de Swissgrid*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Le_reseau_strategique_2025_de_Swissgrid)
+* [*Seminar at DQMP, University of Geneva*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/DQMP_Geneva)
