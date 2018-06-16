@@ -11,6 +11,8 @@ Contains the papers, presentations and other documents relative to the group's s
 
 * [M. Bonvin, P. Jacquod, *Réchauffement Climatique et Transition Energétique : Quelles Conséquences pour la Production Hydroélectrique Suisse ?*, Wasser-Energie-Luft, March (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/WEL)
 
+* [T. Coletta, P. Jacquod, *Transient Primary Control Effort of AC Electric Power Networks under Line Contingencies*, submitted to the 7th IFAC Workshop on Distributed Estimation and Control in Networked Systems (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/ifac2018)
+
 * [T. Coletta, P. Jacquod, *Performance Measures in Electric Power Networks under Line Contingenices*, Submitted to EEE Transactions on Control of Network Systems (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramian)
 
 * [T. Coletta, B. Bamieh, P. Jacquod, *Transient Performance of Electric Power Networks under Colored Noise*, submitted to IEEE Control Systems Letters (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramiannoise)
