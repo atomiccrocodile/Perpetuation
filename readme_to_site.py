@@ -6,6 +6,11 @@
 import json
 import os
 
+reset='\033[0m'
+title='\033[1;32m\033[4;32m'
+text='\033[0;32m'
+warning='\033[0;33m'
+error='\033[0;31m'
 
 file = open('README.md')
 
@@ -131,10 +136,10 @@ for p_all in publication:
                     publication_dict['tags'] = line.split(':')[1][:-4]
                     break
         except:
-            print("Unable to open ", part_2_root+name_readme)
+            print(error+"Unable to open ", part_2_root+name_readme,reset)
             
     else:
-        print("WARNING! No ReadMe for ", part_2_root)
+        print(warning+"WARNING! No ReadMe for ", part_2_root,reset)
 
     name= 'p_' + (str(count).zfill(2))
     count += 1

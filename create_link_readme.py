@@ -13,6 +13,12 @@ f_papers = 'Papers'
 f_presentation = 'In_the_News'
 f_news = 'Presentations'
 
+reset='\033[0m'
+title='\033[1;32m\033[4;32m'
+text='\033[0;32m'
+warning='\033[0;33m'
+error='\033[0;31m'
+
 
 for year in years:
 
@@ -48,10 +54,10 @@ for year in years:
 						similarity=difflib.SequenceMatcher(None, l1, d_n).ratio()
 						directory_name_finish = d_n
 				if similarity > 0.8:
-					print(str(year)+' good')
+					print(text+str(year)+' good'+reset)
 					pass
 				else:
-					print('Careful! This link:' + line_link + ' can be wrong. Please make sure to check it.')
+					print(warning+'Careful! This link:' + line_link + ' can be wrong. Please make sure to check it.'+reset)
 
 				line_final.append(line)
 
@@ -70,8 +76,8 @@ for year in years:
 				
 				
 				if similarity < 0.3:
-					print('Careful! Low similiarity score for link :' + line_title + 'toward' + end_link)
-					print('Please make sure the link is correct')
+					print(warning+'Careful! Low similiarity score for link :' + line_title + 'toward' + end_link+reset)
+					print(warning+'Please make sure the link is correct'+reset)
 
 				line_final.append(line_title_f + '(' + end_link +')\n')
 
@@ -118,10 +124,10 @@ for year in years:
 						similarity=difflib.SequenceMatcher(None, l1, d_n).ratio()
 						directory_name_finish = d_n
 				if similarity > 0.8:
-					print(str(year)+' good')
+					print(text+str(year)+' good'+reset)
 					pass
 				else:
-					print('Careful! This link:' + line_link + ' can be wrong. Please make sure to check it.')
+					print(warning+'Careful! This link:' + line_link + ' can be wrong. Please make sure to check it.'+reset)
 
 				line_final.append(line)
 
@@ -137,8 +143,8 @@ for year in years:
 				end_link = start_link + str(year) + '/' + f_news +'/'+ directory_name_finish
 				
 				if similarity < 0.3:
-					print('Careful! Low similiarity score for link :' + line_title + 'toward' + end_link)
-					print('Please make sure the link is correct')
+					print(warning+'Careful! Low similiarity score for link :' + line_title + 'toward' + end_link+reset)
+					print(warning+'Please make sure the link is correct'+reset)
 
 				line_final.append(line_title_f + '(' + end_link +')\n')
 
@@ -185,10 +191,10 @@ for year in years:
 						similarity=difflib.SequenceMatcher(None, l1, d_n).ratio()
 						directory_name_finish = d_n
 				if similarity > 0.8:
-					print(str(year)+' good')
+					print(text+str(year)+' good'+reset)
 					pass
 				else:
-					print('Careful! This link:' + line_link + ' can be wrong. Please make sure to check it.')
+					print(warning+'Careful! This link:' + line_link + ' can be wrong. Please make sure to check it.'+reset)
 
 				line_final.append(line)
 
@@ -204,8 +210,8 @@ for year in years:
 				end_link = start_link + str(year) + '/' + f_presentation +'/'+ directory_name_finish
 				
 				if similarity < 0.3:
-					print('Careful! Low similiarity score for link :' + line_title + 'toward' + end_link)
-					print('Please make sure the link is correct')
+					print(warning+'Careful! Low similiarity score for link :' + line_title + 'toward' + end_link+reset)
+					print(warning+'Please make sure the link is correct'+reset)
 
 				line_final.append(line_title_f + '(' + end_link +')\n')
 
