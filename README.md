@@ -42,6 +42,7 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### 2018
 * [Réchauffement climatique, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/Réchauffement_climatique_NF)
+* [Réchauffement climatique bis, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/Réchauffement_climatique_NF_2)
 
 ### 2017
 * [Barrage à sec, Black-out en vue, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/Barrages_a_sec_black_out_en_vue)
