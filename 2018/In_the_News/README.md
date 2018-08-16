@@ -8,4 +8,4 @@ Contains the papers, presentations and other documents relative to the group's s
 
 * [Réchauffement climatique bis, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/Réchauffement_climatique_NF_2)
 
-[Prix de l'électricité, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/Electricity_prices)
+* [Prix de l'électricité, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/Electricity_prices)
