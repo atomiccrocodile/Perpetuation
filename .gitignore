@@ -1,3 +1,4 @@
 after.sh
 before.sh
+test_after.sh
 *.DS_Store
