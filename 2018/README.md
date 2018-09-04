@@ -15,6 +15,8 @@ Contains the publications, presentations and other documents pertaining to the g
 * [T. Coletta, B. Bamieh, P. Jacquod, *Transient Performance of Electric Power Networks under Colored Noise*, submitted to IEEE Control Systems Letters (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramiannoise)
 ### In the News
 
+* [Hydroélectricité et prix de l’électricité, *RTS*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/HydroelectricityRTS)
+* [Hydroélectricité et prix de l’électricité, *RSI*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/HydroelectricityRSI)
 * [Réchauffement climatique, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/Réchauffement_climatique_NF)
 * [Réchauffement climatique bis, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/Réchauffement_climatique_NF_2)
 * [Prix de l'électricité, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/Electricity_prices)
