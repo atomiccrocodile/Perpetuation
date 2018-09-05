@@ -13,6 +13,7 @@ f_papers = 'Papers'
 f_presentation = 'In_the_News'
 f_news = 'Presentations'
 
+#Adding colours to make things more visually pleasing and understandable
 reset='\033[0m'
 title='\033[1;32m\033[4;32m'
 text='\033[0;32m'

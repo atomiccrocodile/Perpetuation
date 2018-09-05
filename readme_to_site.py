@@ -8,6 +8,13 @@ import os
 
 
 def read_comment(comments, entry, dictionnay, file):
+    '''
+    Read the comments present in the README for additional informations
+    comments;   comments to look for and read in the the README
+    entry;      key of the dictionary where the information will be stored
+    dictionary; self-explanatory
+    file;       path to the README
+    '''
     try:
         f_readme = open(file)
         for line in f_readme:
@@ -21,7 +28,7 @@ def read_comment(comments, entry, dictionnay, file):
         print(file)
 
 
-
+#Adding colours to make things more visually pleasing and understandable
 reset='\033[0m'
 title='\033[1;32m\033[4;32m'
 text='\033[0;32m'
@@ -100,18 +107,14 @@ for p_all in publication:
 
     display_temp = publication_dict['display']
 
-    display_temp = display_temp.replace('**','<b>',1)
-    display_temp = display_temp.replace('**','</b>',1)
-    display_temp = display_temp.replace('**','<b>',1)
-    display_temp = display_temp.replace('**','</b>',1)
-    display_temp = display_temp.replace('**','<b>',1)
-    display_temp = display_temp.replace('**','</b>',1)
-    display_temp = display_temp.replace('*','<i>',1)
-    display_temp = display_temp.replace('*','</i>',1)
-    display_temp = display_temp.replace('*','<i>',1)
-    display_temp = display_temp.replace('*','</i>',1)
-    display_temp = display_temp.replace('*','<i>',1)
-    display_temp = display_temp.replace('*','</i>',1)
+    for _ in range(3):
+        display_temp = display_temp.replace('**','<b>',1)
+        display_temp = display_temp.replace('**','</b>',1)
+    
+    for _ in range(3):
+        display_temp = display_temp.replace('*','<i>',1)
+        display_temp = display_temp.replace('*','</i>',1)
+    
 
     publication_dict['display'] = display_temp
 
