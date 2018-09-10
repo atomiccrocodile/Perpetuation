@@ -6,6 +6,29 @@
 import json
 import os
 
+
+def read_comment(comments, entry, dictionnay, file):
+    '''
+    Read the comments present in the README for additional informations
+    comments;   comments to look for and read in the the README
+    entry;      key of the dictionary where the information will be stored
+    dictionary; self-explanatory
+    file;       path to the README
+    '''
+    try:
+        f_readme = open(file)
+        for line in f_readme:
+            for comm,key in zip(comments,entry):
+                if line.lower().startswith(comm):
+                    dictionnay[key] = line[len(comm)+1:-4]
+
+    except:
+        # print(error+"Unable to open ", file,reset)
+        print('error')
+        print(file)
+
+
+#Adding colours to make things more visually pleasing and understandable
 reset='\033[0m'
 title='\033[1;32m\033[4;32m'
 text='\033[0;32m'
@@ -84,18 +107,14 @@ for p_all in publication:
 
     display_temp = publication_dict['display']
 
-    display_temp = display_temp.replace('**','<b>',1)
-    display_temp = display_temp.replace('**','</b>',1)
-    display_temp = display_temp.replace('**','<b>',1)
-    display_temp = display_temp.replace('**','</b>',1)
-    display_temp = display_temp.replace('**','<b>',1)
-    display_temp = display_temp.replace('**','</b>',1)
-    display_temp = display_temp.replace('*','<i>',1)
-    display_temp = display_temp.replace('*','</i>',1)
-    display_temp = display_temp.replace('*','<i>',1)
-    display_temp = display_temp.replace('*','</i>',1)
-    display_temp = display_temp.replace('*','<i>',1)
-    display_temp = display_temp.replace('*','</i>',1)
+    for _ in range(3):
+        display_temp = display_temp.replace('**','<b>',1)
+        display_temp = display_temp.replace('**','</b>',1)
+    
+    for _ in range(3):
+        display_temp = display_temp.replace('*','<i>',1)
+        display_temp = display_temp.replace('*','</i>',1)
+    
 
     publication_dict['display'] = display_temp
 
@@ -128,13 +147,10 @@ for p_all in publication:
     if len(name_readme) > 3:
         # print(part_2_root + name_readme)
         try:
-            # print(index)
-            index += 1
-            f_readme = open(part_2[part_2.find('master')+7:] + '/' + name_readme)
-            for line in f_readme:
-                if line.lower().startswith('<!-- keywords:'):
-                    publication_dict['tags'] = line.split(':')[1][:-4]
-                    break
+            file_name=part_2[part_2.find('master')+7:] + '/' + name_readme
+
+            read_comment(['<!-- keywords:'],['tags'],publication_dict,file_name)
+            
         except:
             print(error+"Unable to open ", part_2_root+name_readme,reset)
             
@@ -180,6 +196,31 @@ for n_all in news:
 
     news_dict['display'] = display_temp
 
+
+    name_readme = ''
+
+    for root, dirs, files in os.walk(part_2[part_2.find('master')+7:]):
+        for name in files:
+            if root == part_2[part_2.find('master')+7:]:
+                # print(name)
+                if name.endswith('.pdf'):
+                    name_pdf = name
+                elif name.endswith('.md'):
+                    name_readme = name
+
+    
+    part_2_root = part_2 +'/'
+
+    news_dict['tags'] = ''
+
+    if len(name_readme) > 3:
+        file_name=part_2[part_2.find('master')+7:] + '/' + name_readme
+
+        read_comment(['<!-- keywords:','<!-- link:'],['tags','url'],news_dict,file_name)
+    else:
+        print(warning+"WARNING! No ReadMe for ", part_2_root,reset)
+
+
     name='n_'+(str(count).zfill(2))
     count += 1
     all_news_dict['news'][name]=news_dict
@@ -217,6 +258,36 @@ for pr_all in presentations:
     display_temp = display_temp.replace('*','</b>',1)
 
     pres_dict['display'] = display_temp
+
+
+    name_readme = ''
+
+    for root, dirs, files in os.walk(part_2[part_2.find('master')+7:]):
+        for name in files:
+            if root == part_2[part_2.find('master')+7:]:
+                # print(name)
+                if name.endswith('.pdf'):
+                    name_pdf = name
+                elif name.endswith('.md'):
+                    name_readme = name
+
+    
+    part_2_root = part_2 +'/'
+
+    pres_dict['tags'] = ''
+
+    if len(name_readme) > 3:
+        # print(part_2_root + name_readme)
+        try:
+            file_name=part_2[part_2.find('master')+7:] + '/' + name_readme
+
+            read_comment(['<!-- keywords:','<!-- link:'],['tags','url'],pres_dict,file_name)
+        except:
+            print(error+"Unable to open ", part_2_root+name_readme,reset)
+            
+    else:
+        print(warning+"WARNING! No ReadMe for ", part_2_root,reset)
+
 
     name='p_'+(str(count).zfill(2))
     count += 1
