@@ -152,10 +152,10 @@ for p_all in publication:
             read_comment(['<!-- keywords:'],['tags'],publication_dict,file_name)
             
         except:
-            print(error+"Unable to open ", part_2_root+name_readme,reset)
+            print(error+"Unable to open "+ part_2_root+name_readme+reset)
             
     else:
-        print(warning+"WARNING! No ReadMe for ", part_2_root,reset)
+        print(warning+"WARNING! No ReadMe for "+ part_2_root + reset)
 
     name= 'p_' + (str(count).zfill(2))
     count += 1
@@ -218,7 +218,7 @@ for n_all in news:
 
         read_comment(['<!-- keywords:','<!-- link:'],['tags','url'],news_dict,file_name)
     else:
-        print(warning+"WARNING! No ReadMe for ", part_2_root,reset)
+        print(warning+"WARNING! No ReadMe for " + part_2_root + reset)
 
 
     name='n_'+(str(count).zfill(2))
@@ -283,10 +283,10 @@ for pr_all in presentations:
 
             read_comment(['<!-- keywords:','<!-- link:'],['tags','url'],pres_dict,file_name)
         except:
-            print(error+"Unable to open ", part_2_root+name_readme,reset)
+            print(error+"Unable to open " + part_2_root+name_readme+reset)
             
     else:
-        print(warning+"WARNING! No ReadMe for ", part_2_root,reset)
+        print(warning+"WARNING! No ReadMe for "+ part_2_root+reset)
 
 
     name='p_'+(str(count).zfill(2))
