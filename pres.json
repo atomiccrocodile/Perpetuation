@@ -1,0 +1,148 @@
+{
+    "presentations": {
+        "p_00": {
+            "authors": "", 
+            "date": "2018", 
+            "display": "<b>Dynamics Days Europe 2018, Loughborough University</b>", 
+            "publisher": "Dynamics Days Europe 2018, Loughborough University", 
+            "tags": "", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Dynamics_Days_Loughborough"
+        }, 
+        "p_01": {
+            "authors": "", 
+            "date": "2018", 
+            "display": "<b>International Workshop on Disordered Systems, PCS-ICS Daejeon</b>", 
+            "publisher": "International Workshop on Disordered Systems, PCS-ICS Daejeon", 
+            "tags": "", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/DisSLoTT"
+        }, 
+        "p_02": {
+            "authors": "", 
+            "date": "2018", 
+            "display": "<b>Bad Honnef</b>", 
+            "publisher": "Bad Honnef", 
+            "tags": "", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Bad_Honnef"
+        }, 
+        "p_03": {
+            "authors": "", 
+            "date": "2018", 
+            "display": "<b>Le r\u00e9seau strat\u00e9gique 2025 de Swissgrid</b>", 
+            "publisher": "Le r\u00e9seau strat\u00e9gique 2025 de Swissgrid", 
+            "tags": "", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Le_reseau_strategique_2025_de_Swissgrid"
+        }, 
+        "p_04": {
+            "authors": "", 
+            "date": "2018", 
+            "display": "<b>Seminar at DQMP, University of Geneva</b>", 
+            "publisher": "Seminar at DQMP, University of Geneva", 
+            "tags": "", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/DQMP_Geneva"
+        }, 
+        "p_05": {
+            "authors": "", 
+            "date": "2017", 
+            "display": "<b>Santa Fe</b>", 
+            "publisher": "Santa Fe", 
+            "tags": "", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Santa_Fe"
+        }, 
+        "p_06": {
+            "authors": "", 
+            "date": "2017", 
+            "display": "<b>Powertech</b>", 
+            "publisher": "Powertech", 
+            "tags": "", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Powertech"
+        }, 
+        "p_07": {
+            "authors": "", 
+            "date": "2017", 
+            "display": "<b>Condynet</b>", 
+            "publisher": "Condynet", 
+            "tags": "", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Condynet_Potsdam"
+        }, 
+        "p_08": {
+            "authors": "", 
+            "date": "2017", 
+            "display": "<b>Champ\u00e9ry</b>", 
+            "publisher": "Champ\u00e9ry", 
+            "tags": "", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Champ\u00e9ry"
+        }, 
+        "p_09": {
+            "authors": "", 
+            "date": "2017", 
+            "display": "<b>BIRS Banff</b>", 
+            "publisher": "BIRS Banff", 
+            "tags": "", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/BIRS_Banff"
+        }, 
+        "p_10": {
+            "authors": "", 
+            "date": "2015", 
+            "display": "<b>Konstanz</b>", 
+            "publisher": "Konstanz", 
+            "tags": "", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Konstanz"
+        }, 
+        "p_11": {
+            "authors": "", 
+            "date": "2015", 
+            "display": "<b>Pecha Kucha</b>", 
+            "publisher": "Pecha Kucha", 
+            "tags": "", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Pecha_Kucha"
+        }, 
+        "p_12": {
+            "authors": "", 
+            "date": "2014", 
+            "display": "<b>ECS14</b>", 
+            "publisher": "ECS14", 
+            "tags": "", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/ECS14"
+        }, 
+        "p_13": {
+            "authors": "", 
+            "date": "2014", 
+            "display": "<b>IWDS14</b>", 
+            "publisher": "IWDS14", 
+            "tags": "", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/IWDS14"
+        }, 
+        "p_14": {
+            "authors": "", 
+            "date": "2014", 
+            "display": "<b>SET14</b>", 
+            "publisher": "SET14", 
+            "tags": "", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/SET14"
+        }, 
+        "p_15": {
+            "authors": "", 
+            "date": "2014", 
+            "display": "<b>Majorana EPFL</b>", 
+            "publisher": "Majorana EPFL", 
+            "tags": "", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/Majorana_EPFL"
+        }
+    }
+}

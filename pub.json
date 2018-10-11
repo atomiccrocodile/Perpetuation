@@ -1,0 +1,229 @@
+{
+    "publication": {
+        "p_00": {
+            "authors": "L. Pagnier, P. Jacquod", 
+            "date": "2018", 
+            "display": "L. Pagnier, P. Jacquod, <i>How fast can one overcome the paradox of the energy transition? A physico-economic model for the European power grid</i>, Energy <b>157</b> , 550 (2018)", 
+            "publisher": "Energy **157** , 550", 
+            "tags": "", 
+            "title": "How fast can one overcome the paradox of the energy transition? A physico-economic model for the European power grid", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2018/Papers/Energy/energy.pdf"
+        }, 
+        "p_01": {
+            "authors": "M. Tyloo, T. Coletta, P. Jacquod", 
+            "date": "2018", 
+            "display": "M. Tyloo, T. Coletta, P. Jacquod , <i>Robustness of Synchrony in Complex Networks and Generalized Kirchhoff Indices</i>, Phys. Rev. Lett. <b>120</b> , 084101 (2018)", 
+            "publisher": "Phys. Rev. Lett. **120** , 084101", 
+            "tags": "", 
+            "title": "Robustness of Synchrony in Complex Networks and Generalized Kirchhoff Indices", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2018/Papers/Kirchhoff/Kirchhoff.pdf"
+        }, 
+        "p_02": {
+            "authors": "L. Pagnier, P. Jacquod", 
+            "date": "2018", 
+            "display": "L. Pagnier, P. Jacquod, <i>Swissgrid\u2019s Strategic Grid 2025 : an Independent Analysis</i>, Technical report (2018)", 
+            "publisher": "Technical report", 
+            "tags": "", 
+            "title": "Swissgrid\u2019s Strategic Grid 2025 : an Independent Analysis", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2018/Papers/Swissgrid_2025/report_grid_2025_fin_rev.pdf"
+        }, 
+        "p_03": {
+            "authors": "M. Bonvin, P. Jacquod", 
+            "date": "2018", 
+            "display": "M. Bonvin, P. Jacquod, <i>R\u00e9chauffement Climatique et Transition Energ\u00e9tique : Quelles Cons\u00e9quences pour la Production Hydro\u00e9lectrique Suisse ?</i>, Wasser-Energie-Luft, March (2018)", 
+            "publisher": "Wasser-Energie-Luft, March", 
+            "tags": "", 
+            "title": "R\u00e9chauffement Climatique et Transition Energ\u00e9tique : Quelles Cons\u00e9quences pour la Production Hydro\u00e9lectrique Suisse ?", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2018/Papers/WEL/R\u00e9chauffement_climatique.pdf"
+        }, 
+        "p_04": {
+            "authors": "T. Coletta, P. Jacquod", 
+            "date": "2018", 
+            "display": "T. Coletta, P. Jacquod, <i>Transient Primary Control Effort of AC Electric Power Networks under Line Contingencies</i>, submitted to the 7th IFAC Workshop on Distributed Estimation and Control in Networked Systems (2018)", 
+            "publisher": "submitted to the 7th IFAC Workshop on Distributed Estimation and Control in Networked Systems", 
+            "tags": "", 
+            "title": "Transient Primary Control Effort of AC Electric Power Networks under Line Contingencies", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2018/Papers/ifac2018/ifacconf.pdf"
+        }, 
+        "p_05": {
+            "authors": "T. Coletta, P. Jacquod", 
+            "date": "2018", 
+            "display": "T. Coletta, P. Jacquod, <i>Performance Measures in Electric Power Networks under Line Contingenices</i>, Submitted to EEE Transactions on Control of Network Systems (2018)", 
+            "publisher": "Submitted to EEE Transactions on Control of Network Systems", 
+            "tags": "", 
+            "title": "Performance Measures in Electric Power Networks under Line Contingenices", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2018/Papers/Gramian/Performance_measure_line_fault.pdf"
+        }, 
+        "p_06": {
+            "authors": "T. Coletta, B. Bamieh, P. Jacquod", 
+            "date": "2018", 
+            "display": "T. Coletta, B. Bamieh, P. Jacquod, <i>Transient Performance of Electric Power Networks under Colored Noise</i>, submitted to IEEE Control Systems Letters (2018)", 
+            "publisher": "submitted to IEEE Control Systems Letters", 
+            "tags": "", 
+            "title": "Transient Performance of Electric Power Networks under Colored Noise", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2018/Papers/Gramiannoise/Gramian_colored_noise.pdf"
+        }, 
+        "p_07": {
+            "authors": "R. Delabays, T. Coletta, P. Jacquod", 
+            "date": "2017", 
+            "display": "R. Delabays, T. Coletta, P. Jacquod, <i>Multistability of phase-locking in equal-frequency Kuramoto models on planar graphs</i>, J. Math. Phys <b>58</b>, 032701  (2017)", 
+            "publisher": "J. Math. Phys **58**, 032701", 
+            "tags": "network_stability kuramoto multistability planar winding number loop flow ", 
+            "title": "Multistability of phase-locking in equal-frequency Kuramoto models on planar graphs", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2017/Papers/Multistability_of_phase-locking_in_equal-frequency_Kuramoto_models_on_planar_graphs/Multistability_of_phase-locking_in_equal-frequency_Kuramoto_models_on_planar_graphs.pdf"
+        }, 
+        "p_08": {
+            "authors": "T. Coletta, P. Jacquod", 
+            "date": "2017", 
+            "display": "T. Coletta, P. Jacquod, <i>Resistance distance criterion for optimal slack bus selection</i> (2017)", 
+            "publisher": "", 
+            "tags": "", 
+            "title": "Resistance distance criterion for optimal slack bus selection", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2017/Papers/Resistance_Distance_Criterion_for_Optimal_Slack_Bus_Selection/Resistance_Distance_Criterion_for_Optimal_Slack_Bus_Selection.pdf"
+        }, 
+        "p_09": {
+            "authors": "R. Delabays, M. Tyloo, P. Jacquod", 
+            "date": "2017", 
+            "display": "R. Delabays, M. Tyloo, P. Jacquod, <i>The Size of the Sync Basin Revisited</i>, Chaos <b>27</b>, 103109 (2017)", 
+            "publisher": "Chaos **27**, 103109", 
+            "tags": "network_stability kuramoto cycle multistability basin attraction sync volume ", 
+            "title": "The Size of the Sync Basin Revisited", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2017/Papers/The_Size_of_the_Sync_Basin_Revisited/The_Size_of_the_Sync_Basin_Revisited.pdf"
+        }, 
+        "p_10": {
+            "authors": "T. Coletta, R. Delabays, P. Jacquod", 
+            "date": "2017", 
+            "display": "T. Coletta, R. Delabays, P. Jacquod, <i>Finite Size Scaling in the Kuramoto Model</i>, Phys. Rev. E <b>95</b>, 042207 (2017)", 
+            "publisher": "Phys. Rev. E **95**, 042207", 
+            "tags": "", 
+            "title": "Finite Size Scaling in the Kuramoto Model", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2017/Papers/Finite_Size_Scaling/Finite_Size_Scaling.pdf"
+        }, 
+        "p_11": {
+            "authors": "P. Jacquod, L. Pagnier", 
+            "date": "2017", 
+            "display": "P. Jacquod, L. Pagnier, <i>Le paradoxe de la transition e\u0301nerge\u0301tique</i>, <i>ElectroSuisse / AES</i> (2017)", 
+            "publisher": "*ElectroSuisse / AES*", 
+            "tags": "", 
+            "title": "Le paradoxe de la transition e\u0301nerge\u0301tique", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2017/Papers/Paradoxe_Transition_Energ%C3%A9tique"
+        }, 
+        "p_12": {
+            "authors": "L. Pagnier, P. Jacquod", 
+            "date": "2017", 
+            "display": "L. Pagnier, P. Jacquod , <i>A predictive pan-European economic and production dispatch model for the energy transition in the electricity sector</i>, <i>Proceedings of Powertech 2017 Conference</i> (2017)", 
+            "publisher": "*Proceedings of Powertech 2017 Conference*", 
+            "tags": "", 
+            "title": "A predictive pan-European economic and production dispatch model for the energy transition in the electricity sector", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2017/Papers/A_predictive_pan-European_economic_and_production_dispatch_model_for_the_energy_transition_in_the_electricity_sector/A_predictive_pan-European_economic_and_production_dispatch_model_for_the_energy_transition_in_the_electricity_sector.pdf"
+        }, 
+        "p_13": {
+            "authors": "L. Pagnier, P. Jacquod", 
+            "date": "2017", 
+            "display": "L. Pagnier, P. Jacquod , <i>How fast can one overcome the paradox of the energy transition? A predictive physico-economic model for the European power grid</i>, <i>Energy</i> (pending)", 
+            "publisher": "*Energy*", 
+            "tags": "", 
+            "title": "How fast can one overcome the paradox of the energy transition? A predictive physico-economic model for the European power grid", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2017/Papers/How_fast_can_one_overcome_the_paradox_of_the_energy_transition/How_fast_can_one_overcome_the_paradox_of_the_energy_transition.pdf"
+        }, 
+        "p_14": {
+            "authors": "T. Coletta, P. Jacquod", 
+            "date": "2017", 
+            "display": "T. Coletta, P. Jacquod, <i>Performance measures in electric power networks under line contingencies</i>, (pending)", 
+            "publisher": "", 
+            "tags": "", 
+            "title": "Performance measures in electric power networks under line contingencies", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2017/Papers/Performance_Measures_in_Electric_Power_Networks_Under_Line_Contingencies/Performance_measures_in_electric_power_networks_under_line_contingencies.pdf"
+        }, 
+        "p_15": {
+            "authors": "R. Delabays, T. Coletta, P. Jacquod", 
+            "date": "2016", 
+            "display": "R. Delabays, T. Coletta, P. Jacquod, <i>Multistability of phase-locking and topological winding numbers in locally coupled Kuramoto models on single-loop networks</i>, J. Mat. Phys <b>57</b>, 032703 (2016)", 
+            "publisher": "J. Mat. Phys **57**, 032703", 
+            "tags": "network_stability kuramoto multistability winding number loop flow cycle ", 
+            "title": "Multistability of phase-locking and topological winding numbers in locally coupled Kuramoto models on single-loop networks", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2016/Papers/Multistability_of_phase-locking_and_topological_winding_numbers_in_locally_coupled_Kuramoto_models_on_single-loop_networks/Multistability_of_phase-locking_and_topological_winding_numbers_in_locally_coupled_Kuramoto_models_on_single-loop_networks.pdf"
+        }, 
+        "p_16": {
+            "authors": "T. Coletta, P. Jacquod", 
+            "date": "2016", 
+            "display": "T. Coletta, P. Jacquod, <i>Linear stability and the Braess paradox in coupled-oscillator networks and electric power grids</i>, Phys. Rev. E <b>93</b>, 032222 (2016)", 
+            "publisher": "Phys. Rev. E **93**, 032222", 
+            "tags": "network_stability coupled oscillators braess paradox ", 
+            "title": "Linear stability and the Braess paradox in coupled-oscillator networks and electric power grids", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2016/Papers/Braess_Paradox/Braess_Paradox.pdf"
+        }, 
+        "p_17": {
+            "authors": "R. Delabays, T. Coletta, P. Jacquod", 
+            "date": "2016", 
+            "display": "R. Delabays, T. Coletta, P. Jacquod, <i>Topologically protected loop flows in high voltage AC power grids</i>, New J. Phys. <b>18</b>, 103042 (2016)", 
+            "publisher": "New J. Phys. **18**, 103042", 
+            "tags": "network_stability loop flow winding number topological protection ", 
+            "title": "Topologically protected loop flows in high voltage AC power grids", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2016/Papers/Topological_Protection/Topological_Protection.pdf"
+        }, 
+        "p_18": {
+            "authors": "P. Jacquod, L. Pagnier", 
+            "date": "2016", 
+            "display": "P. Jacquod, L. Pagnier, <i>A new, central role for hydroelectricity in the energy transition</i>, Proceedings of Hydro 2016 Conference (2016)", 
+            "publisher": "Proceedings of Hydro 2016 Conference", 
+            "tags": "", 
+            "title": "A new, central role for hydroelectricity in the energy transition", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2016/Papers/A_New_Central_Role_for_Hydroelectricity_in_the_Energy_Transition/A_New_Central_Role_for_Hydroelectricity_in_the_Energy_Transition.pdf"
+        }, 
+        "p_19": {
+            "authors": "T. Coletta, R. Delabays, L. Pagnier, P. Jacquod", 
+            "date": "2016", 
+            "display": "T. Coletta, R. Delabays, L. Pagnier, P. Jacquod, <i>Large Electric Load Fluctuations in Energy-Efficient Buildings and how to Suppress them with Demand Side Management</i>, PES (2016)", 
+            "publisher": "PES", 
+            "tags": "", 
+            "title": "Large Electric Load Fluctuations in Energy-Efficient Buildings and how to Suppress them with Demand Side Management", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2016/Papers/Demand_Side_Management/Large_electric_load_fluctuations_in_energy_efficient_buildings_and_how_to_suppress_them_with_DSM.pdf"
+        }, 
+        "p_20": {
+            "authors": "M. Bonvin, P. Jacquod", 
+            "date": "2015", 
+            "display": "M. Bonvin, P. Jacquod, <i>Tournant \u00e9nergetique dans le secteur \u00e9lectrique</i>, ElectroSuisse/AES, November (2015)", 
+            "publisher": "ElectroSuisse/AES, November", 
+            "tags": "", 
+            "title": "Tournant \u00e9nergetique dans le secteur \u00e9lectrique", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2015/Papers/Tournant_energetique_dans_le_secteur_electrique/Tournant_energetique_dans_le_secteur_electrique.pdf"
+        }, 
+        "p_21": {
+            "authors": "F. Nichele, S. Hennel, P. Pietsch, W. Wegscheider, P. Stano, P. Jacquod, T. Ihn, K. Ensslin", 
+            "date": "2015", 
+            "display": "F. Nichele, S. Hennel, P. Pietsch, W. Wegscheider, P. Stano, P. Jacquod, T. Ihn, K. Ensslin, <i>Generation and Detection of Spin Currents in Semiconductor Nanostructures with Strong Spin-Orbit Interaction</i>, Phys. Rev. Lett. <b>114</b>, 206601 (2015)", 
+            "publisher": "Phys. Rev. Lett. **114**, 206601", 
+            "tags": "", 
+            "title": "Generation and Detection of Spin Currents in Semiconductor Nanostructures with Strong Spin-Orbit Interaction", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2015/Papers/Spin_Current_Detection/nichele_allinone.pdf"
+        }, 
+        "p_22": {
+            "authors": "J. Meair, J. Bergfield, C. Stafford, P. Jacquod", 
+            "date": "2014", 
+            "display": "J. Meair, J. Bergfield, C. Stafford, P. Jacquod, <i>Local Temperature of Out-of-Equilibrium Quantum Electron Systems</i>, Phys. Rev. B <b>90</b>, 035407 (2014)", 
+            "publisher": "Phys. Rev. B **90**, 035407", 
+            "tags": "", 
+            "title": "Local Temperature of Out-of-Equilibrium Quantum Electron Systems", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2014/Papers/Local_Temperature/PhysRevB.90.035407.pdf"
+        }, 
+        "p_23": {
+            "authors": "M. Yankowitz, J. Wang, A. Birdwell, Y. Chen, K. Watanabe, T. Taniguchi, P. Jacquod, P. San-Jose, P. Jarillo-Herrero, B. LeRoy", 
+            "date": "2014", 
+            "display": "M. Yankowitz, J. Wang, A. Birdwell, Y. Chen, K. Watanabe, T. Taniguchi, P. Jacquod, P. San-Jose, P. Jarillo-Herrero, B. LeRoy, <i>Electric Field Control of Soliton Motion and Stacking in Trilayer Graphene</i>, Nature Materials <b>13</b>, 786 (2014)", 
+            "publisher": "Nature Materials **13**, 786", 
+            "tags": "", 
+            "title": "Electric Field Control of Soliton Motion and Stacking in Trilayer Graphene", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2014/Papers/Soliton_Motion_Graphene/nmat3965_final.pdf"
+        }, 
+        "p_24": {
+            "authors": "P. Jacquod, M. B\u00fcttiker", 
+            "date": "2013", 
+            "display": "P. Jacquod, M. B\u00fcttiker, <i>Signatures of Majorana Fermions in Hybrid Normal-Superconducting Rings</i>, Physical Review B <b>88</b>, 214409(R) (2013)", 
+            "publisher": "Physical Review B **88**, 214409", 
+            "tags": "", 
+            "title": "Signatures of Majorana Fermions in Hybrid Normal-Superconducting Rings", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2013/Papers/Majorana/majorana_markus.pdf"
+        }
+    }
+}
